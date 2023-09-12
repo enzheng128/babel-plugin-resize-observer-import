@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-resize-observer-polyfill-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzheng128/babel-plugin-resize-observer-polyfill-import.git"
+  },
+  "author": "zhengen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzheng128/babel-plugin-resize-observer-polyfill-import/issues"
+  },
+  "homepage": "https://github.com/enzheng128/babel-plugin-resize-observer-polyfill-import#readme"
+}
